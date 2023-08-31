@@ -13,6 +13,13 @@ public class PontoFlutuante {
 		
 		double novoTeste = 3.60 / 1.5;
 		System.out.println(novoTeste); 
+		
+		int salario1 = 2;
+		double salario2  = 1.575;
+
+		
+		System.out.println(salario1+salario2);
+				
 	}
 
 }
