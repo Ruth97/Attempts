@@ -10,6 +10,9 @@ public class PontoFlutuante {
 		
 		double calculando = 3.5 * 79; // É possível tbm já lançar cálculos 
 		System.out.println(calculando);
+		
+		double novoTeste = 3.60 / 1.5;
+		System.out.println(novoTeste); 
 	}
 
 }
